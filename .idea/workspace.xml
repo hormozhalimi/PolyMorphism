@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc4ecbf3-4b52-4c06-9277-ba0b41ffa378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyMorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="dc4ecbf3-4b52-4c06-9277-ba0b41ffa378" name="Changes" comment="PolyMorPhism">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,56 @@
       <option name="presentableId" value="Default" />
       <updated>1697612837590</updated>
     </task>
+    <task id="LOCAL-00001" summary="PolyMorPhism">
+      <created>1697614470199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614470199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PolyMorPhism">
+      <created>1697614502793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614502793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PolyMorPhism">
+      <created>1697614549151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614549151</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PolyMorPhism">
+      <created>1697614689651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614689651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PolyMorPhism">
+      <created>1697614704061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614704061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PolyMorPhism">
+      <created>1697614718301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614718301</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PolyMorPhism">
+      <created>1697614733024</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697614733024</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +110,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PolyMorPhism in java" />
+    <MESSAGE value="PolyMorphism is used in java" />
+    <MESSAGE value="PolyMorPhism" />
+    <option name="LAST_COMMIT_MESSAGE" value="PolyMorPhism" />
   </component>
 </project>
